@@ -1,4 +1,4 @@
-package com.tang.six.two;
+package com.tang.thread.six.two;
 
 import java.util.concurrent.ConcurrentLinkedDeque;
 
